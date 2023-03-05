@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Core 1 assignmentt</string>
+    <string name="linearLayout"></string>
+    <string name="integer_number_1">0</string>
+    <string name="increase_1">Score</string>
+    <string name="decrease_1">Steal</string>
+    <string name="reset_button">Reset</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Affectation de base 1</string>
+    <string name="linearLayout"></string>
+    <string name="integer_number_1">0</string>
+    <string name="increase_1">Score</string>
+    <string name="decrease_1">Voler</string>
+    <string name="reset_button">Réinitialiser</string>
+</resources>
